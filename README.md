@@ -32,3 +32,11 @@
 <p align="center">
     <img src="https://gpvc.arturio.dev/Fir121" alt="profile views">
 </p>
+
+## 🐍 Activty Graph
+
+<p align="center">
+
+![Snake animation](https://github.com/Fir121/Fir121/blob/output/github-contribution-grid-snake.svg)
+
+</p>

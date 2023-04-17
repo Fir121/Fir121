@@ -8,7 +8,9 @@
 - 🎬 I love photography, movies, and food
 - 😅 Random Joke: 
 
-<p align="center"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"/></p>
+<p align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"/>
+</p>
 
 ## 📊 My GitHub Statistics
 

@@ -29,9 +29,8 @@
     <a href="https://www.linkedin.com/in/mohamed-firas"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/mohamedfiras.a"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-<p align="center">
-    ![view counter](https://komarev.com/ghpvc/?username=Fir121&style=for-the-badge)
-</p>
+
+![view counter](https://komarev.com/ghpvc/?username=Fir121&style=for-the-badge)
 
 ## 🐍 Activty Graph
 

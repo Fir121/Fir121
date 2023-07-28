@@ -30,7 +30,7 @@
     <a href="https://www.instagram.com/mohamedfiras.a"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 <p align="center">
-    ![](https://komarev.com/ghpvc/?username=Fir121)
+    ![view counter](https://komarev.com/ghpvc/?username=Fir121&style=for-the-badge)
 </p>
 
 ## 🐍 Activty Graph

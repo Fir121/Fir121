@@ -16,7 +16,6 @@
 
  <div align="center">
     <br/>
-        <img alt="Fir121's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fir121&show_icons=true&count_private=true&theme=synthwave" height="192px"/>
     <img alt="Fir121's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fir121&langs_count=8&layout=compact&theme=synthwave" height="192px"/>
     <br/>
   </div>

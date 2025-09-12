@@ -3,8 +3,9 @@
     <img src="assets/rabbit.gif" height="30" />
 </h2>
 
-*I'm a Computer Science Student at BITS Pilani, Dubai 👨‍💻 coding since 2018 🚀*
+*I'm a Computer Science Engineer 👨‍💻 coding since '18 🚀*
 
+- 📩 Hit me up on LinkedIn to chat, collaborate or just find out what I'm up to right now
 - 🎬 I love photography, movies, and food
 - 😅 Random Joke: 
 
@@ -19,7 +20,7 @@
     <img alt="Fir121's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fir121&langs_count=8&layout=compact&theme=synthwave" height="192px"/>
     <br/>
   </div>
-  <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
+  <b>Note:</b> <em>Top languages is only a metric of the languages my **public** code consists of and doesn't reflect experience or skill level.</em>
 
 ## 🙋‍♂️ Let's Connect
 

@@ -5,7 +5,7 @@
 
 *I'm a Computer Science Engineer 👨‍💻 coding since '18 🚀*
 
-- 📩 Hit me up on LinkedIn to chat, collaborate or just find out what I'm up to right now
+- 📩 Hit me up on [LinkedIn](https://www.linkedin.com/in/mohamed-firas) to chat, collaborate or just find out what I'm up to right now
 - 🎬 I love photography, movies, and food
 - 😅 Random Joke: 
 

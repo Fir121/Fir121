@@ -17,7 +17,7 @@
 
  <div align="center">
     <br/>
-    <img alt="Fir121's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fir121&langs_count=8&layout=compact&theme=synthwave" height="192px"/>
+    <img alt="Fir121's Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fir121&langs_count=8&layout=compact&theme=synthwave" height="192px"/>
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my **public** code consists of and doesn't reflect experience or skill level.</em>
